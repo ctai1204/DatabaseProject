@@ -5,5 +5,5 @@ A person(student,staff,faculty) can order in one location per order.
 An individual delivery is tied to one and only one person for the order.  
 The order is for one and only one restaurant.
 There is a flat fee of $5 for each delivery. 
-There are multiple ratings for a driver.
-A Driver can deliver multiple orders to multiple locations at once.
+A rating is associated with an order.
+A driver can have multiple ratings and the average will be calculated.
